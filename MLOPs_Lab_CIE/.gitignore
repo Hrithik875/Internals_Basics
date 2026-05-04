@@ -2,8 +2,8 @@ mlruns/
 __pycache__/
 *.pyc
 *.pyo
-models/*.pkl
 .env
 *.egg-info/
 dist/
 build/
+venv/

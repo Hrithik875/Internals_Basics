@@ -1,0 +1,18 @@
+{
+  "experiment_name": "gamelag-latency-ms",
+  "models": [
+    {
+      "name": "SVR",
+      "mae": 73.2114,
+      "rmse": 81.2526
+    },
+    {
+      "name": "RandomForest",
+      "mae": 24.8601,
+      "rmse": 28.5971
+    }
+  ],
+  "best_model": "RandomForest",
+  "best_metric_name": "mae",
+  "best_metric_value": 24.8601
+}
